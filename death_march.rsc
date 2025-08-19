@@ -1,0 +1,28 @@
+# Mikrotik script do ringtone Death March
+:beep frequency=522 length=600ms;
+:delay 610ms;
+:delay 150ms;
+:beep frequency=522 length=600ms;
+:delay 610ms;
+:beep frequency=522 length=300ms;
+:delay 310ms;
+:delay 75ms;
+:beep frequency=522 length=1200ms;
+:delay 1210ms;
+:beep frequency=622 length=600ms;
+:delay 610ms;
+:beep frequency=588 length=300ms;
+:delay 310ms;
+:delay 75ms;
+:beep frequency=588 length=600ms;
+:delay 610ms;
+:beep frequency=522 length=300ms;
+:delay 310ms;
+:delay 75ms;
+:beep frequency=522 length=600ms;
+:delay 610ms;
+:beep frequency=494 length=300ms;
+:delay 310ms;
+:delay 75ms;
+:beep frequency=522 length=1800ms;
+:delay 1810ms;
